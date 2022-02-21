@@ -1,4 +1,4 @@
-# Happy Anniversary
+# Happy Birthday
 
 A Web based Anniversary card to wish your special one in a unique way.💕
 
